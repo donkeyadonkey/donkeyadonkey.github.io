@@ -1,0 +1,1 @@
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-10-12-복합키(IdClass, EmbeddedId) vs 제약조건.md

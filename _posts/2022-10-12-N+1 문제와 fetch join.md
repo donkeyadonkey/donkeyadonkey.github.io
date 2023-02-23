@@ -1,0 +1,1 @@
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-10-12-N+1 문제와 fetch join.md
