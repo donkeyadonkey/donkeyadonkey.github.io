@@ -1,1 +1,1 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-12-10-Kafka 접어두고 Spring Application Event 사용하기.md
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-12-10-Kafka 접어두고 Spring Application Event 사용하기.md

@@ -1,1 +1,1 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-11-01-WebClient 도입 고민.md
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-11-01-WebClient 도입 고민.md

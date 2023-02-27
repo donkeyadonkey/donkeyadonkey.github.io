@@ -1,1 +1,1 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-10-11-soft delete 구현.md
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-10-11-soft delete 구현.md

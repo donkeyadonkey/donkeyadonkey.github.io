@@ -1,1 +1,1 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-03-31-Github Actions + CodeDeploy 로 CI CD 구축하기.md
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-03-31-Github Actions + CodeDeploy 로 CI CD 구축하기.md

@@ -1,1 +1,1 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-10-27-HttpServletRequest 의 getter 들 정리하기.md
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-10-27-HttpServletRequest 의 getter 들 정리하기.md

@@ -1,1 +1,1 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-09-07-build gradle jar, bootJar 빌드를 할지 말지 여부 결정하기.md
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-09-07-build gradle jar, bootJar 빌드를 할지 말지 여부 결정하기.md

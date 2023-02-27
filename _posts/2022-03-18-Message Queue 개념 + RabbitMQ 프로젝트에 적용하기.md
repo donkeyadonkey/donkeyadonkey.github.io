@@ -1,1 +1,1 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/notion_blog/2022-03-18-Message Queue 개념 + RabbitMQ 프로젝트에 적용하기.md
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-03-18-Message Queue 개념 + RabbitMQ 프로젝트에 적용하기.md

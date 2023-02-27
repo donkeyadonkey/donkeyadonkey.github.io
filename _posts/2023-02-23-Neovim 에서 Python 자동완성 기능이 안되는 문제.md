@@ -1,0 +1,1 @@
+../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2023-02-23-Neovim 에서 Python 자동완성 기능이 안되는 문제.md
