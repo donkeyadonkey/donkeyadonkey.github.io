@@ -1,1 +1,0 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-04-25-Swap Memory 사용하기 ~ 메모리 부족을 해결해보자 ~.md

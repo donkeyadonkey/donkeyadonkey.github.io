@@ -1,1 +1,0 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2023-02-24-Neovim - 별개의 buffer에서 shell command 실행하기.md

@@ -1,1 +1,0 @@
-../../../Library/Mobile Documents/iCloud~md~obsidian/Documents/Main Vault/donkeyadonkey_blog/2022-04-09-Route53 + ACM + ELB로 DNS 설정, HTTPS 설정, 로드밸런서 설정하기.md
